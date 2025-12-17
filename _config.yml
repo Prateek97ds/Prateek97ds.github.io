@@ -11,23 +11,21 @@ contact_note: >
   Email is the best way to reach me for academic or research-related queries.
 
 description: >
-  Researcher working at the intersection of information systems, artificial intelligence, and labor markets, with a focus on skills, tasks, and organizational change.
+  Researcher working at the intersection of information systems, artificial intelligence, and labor markets, studying how skills and tasks are measured, represented, and reconfigured within organizations.
 
 keywords:
   - information-systems
   - artificial-intelligence
   - labor-markets
-  - skills
-  - task-analysis
-  - job-postings
-  - machine-learning
-  - research
+  - skills-and-tasks
+  - organizational-design
   - human-ai-interaction
-  - organizational-change
   - computational-social-science
+  - job-posting-data
+
 
 lang: en
-icon: 📊
+icon: ⚛️
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the
   <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -645,9 +643,10 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - work
   - publications
+  - work
   - projects
   - awards
   - skills
+
 
