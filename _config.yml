@@ -2,22 +2,39 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Prateek Tiwari # the website title (if blank, full name will be used instead)
+title: Prateek Tiwari
 first_name: Prateek
-middle_name: 
+middle_name:
 last_name: Tiwari
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Associate at Indian School of Business working on AI, labor markets, and skill ontologies.footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: ai-ml, labor-markets, skill-ontology, indian-school-of-business, research-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://Prateek97ds.github.io # the base hostname & protocol for your site
+contact_note: >
+  Email is the best way to reach me for academic or research-related queries.
+
+description: >
+  Researcher working at the intersection of information systems, artificial intelligence, and labor markets, with a focus on skills, tasks, and organizational change.
+
+keywords:
+  - information-systems
+  - artificial-intelligence
+  - labor-markets
+  - skills
+  - task-analysis
+  - job-postings
+  - machine-learning
+  - research
+  - human-ai-interaction
+  - organizational-change
+  - computational-social-science
+
+lang: en
+icon: 📊
+footer_text: >
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the
+  <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+
+url: https://prateek97ds.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -62,9 +79,10 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true
+serve_schema_org: true
+og_image: assets/img/og_image.png
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -85,8 +103,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Research Notes
+blog_description: Notes on AI, skills, labor markets, and empirical research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -151,6 +169,9 @@ collections:
     output: true
   projects:
     output: true
+  research:
+    output: true
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -271,20 +292,15 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
 
-  replace_strings: true
-  join_strings: true
+  bibtex_filters: [latex, smallcaps, superscript]
 
   details_dir: bibliography
   details_link: Details
 
-  query: "@*"
   group_by: year
   group_order: descending
+
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
@@ -622,21 +638,16 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
-
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: assets/json/resume.json
 
 jsonresume:
   - basics
-  - work
   - education
+  - work
   - publications
   - projects
-  - volunteer
   - awards
-  - certificates
   - skills
-  - languages
-  - interests
-  - references
+
