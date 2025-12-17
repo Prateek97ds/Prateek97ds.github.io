@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Conference on the Digital Economy (CODE)":
+  url: https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/digital-economy.html
   color: "#00369f"
+  
+"Indian School of Business":
+  url: https://www.isb.edu
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"https://sites.google.com/view/wiseconf2024":
+  url: https://sites.google.com/view/wiseconf2024
   color: "#009f36"
