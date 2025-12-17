@@ -1,7 +1,7 @@
 ---
-layout: page
-title: news
-permalink: /news/
+layout: post
+date: 2025-01-15
+inline: true
 ---
 
-{% include news.liquid %}
+Presented *“Bridging Skill (Data) Gaps: Methodology and Results for an Indian Software Skills Database”* at **CODE 2025, Varanasi**.
