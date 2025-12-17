@@ -1,7 +1,13 @@
 ---
-layout: page
-title: cv
+layout: cv
 permalink: /cv/
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: /assets/pdf/Prateek_Tiwari_CV.pdf
+description: Curriculum Vitae
+toc:
+  sidebar: left
 ---
 
 You can download my full CV here:  
