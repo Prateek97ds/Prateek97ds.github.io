@@ -2,6 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
+description: Research projects on AI, skills, labor markets, and data infrastructure.
+nav: true
+nav_order: 3
+display_categories: [research]
+horizontal: false
 ---
 
 ## Selected Research Projects
@@ -13,8 +18,6 @@ Designed a multi-stage pipeline combining:
 - Deterministic heuristics and bounded verification  
 Used to process millions of job descriptions at scale.
 
-### AI Use-Case Study in Organizations
-Empirical analysis of how firms deploy AI across tasks—distinguishing automation, augmentation, and task reallocation—using job postings and internal firm data.
 
 ### Indigenous Skill Taxonomy (NSDC)
-Built a multilingual skill taxonomy tailored to Indian labor markets, addressing gaps in existing international classifications.
+Building a multilingual skill taxonomy tailored to Indian labor markets, addressing gaps in existing international classifications.
