@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle: <em>**Pre-Doctoral Researcher** in Information Systems, AI, and Labor Markets</em>
 
 profile:
