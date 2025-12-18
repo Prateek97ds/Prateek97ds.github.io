@@ -2,12 +2,12 @@
 layout: profiles
 permalink: /references/
 title: References
-description: Academic and professional references
+description: ""
 nav: true
 nav_order: 7
 
 profiles:
-  - align: right
+  - align: left
     image: ""
     content: ref_deepa_mani.md
     image_circular: false
@@ -21,7 +21,7 @@ profiles:
     more_info: >
       <p><strong>Professor Vishal Karungulam</strong></p>
 
-  - align: right
+  - align: left
     image: ""
     content: ref_nishant_chadha.md
     image_circular: false
@@ -35,7 +35,7 @@ profiles:
     more_info: >
       <p><strong>Praveen Garimella</strong></p>
 
-  - align: right
+  - align: left
     image: ""
     content: ref_sai_nikhila_munipalle.md
     image_circular: false
