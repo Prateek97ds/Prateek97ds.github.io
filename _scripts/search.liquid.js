@@ -82,10 +82,10 @@ ninja.data = [
   //   {%- if collection.label != 'posts' -%}
   //     {%- for item in collection.docs -%}
   {%- for collection in site.collections -%}
-    {%- unless collection.label == 'posts'
-        or collection.label == 'projects'
-        or collection.label == 'books'
-        or collection.label == 'news' -%}
+    {%- if collection.label != 'posts' and
+          collection.label != 'projects' and
+          collection.label != 'books' and
+          collection.label != 'news' -%}
       {%- for item in collection.docs -%}
         {
           {%- if item.inline -%}
