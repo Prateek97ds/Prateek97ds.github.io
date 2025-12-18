@@ -1,4 +1,3 @@
-I want to edit section and keep it as a references section
 ---
 layout: profiles
 permalink: /people/
