@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Researcher in Information Systems, AI, and Labor Markets
+subtitle: *Researcher in Information Systems, AI, and Labor Markets*
 
 profile:
   align: right
@@ -17,10 +17,10 @@ latest_posts:
   enabled: false
 ---
 
-I am a researcher working at the intersection of **information systems, artificial intelligence, and labor markets**. My work examines how digital technologies—particularly AI—reshape **tasks, skills, and organizational capabilities**, and how these changes can be measured using large-scale data infrastructures.
+I work on questions at the intersection of information systems, AI, and labour markets, with a focus on how new technologies change what work looks like inside firms. In particular, I study how tasks are reorganised, how skill requirements shift, and how these changes can be measured at scale.
 
-I currently work at the **Indian School of Business**, where I collaborate with **Professor Deepa Mani** on projects studying technology and work. A central component of my research involves building **high-frequency job-posting databases** and **skill taxonomies** to understand how employer demand evolves over time, especially in emerging economy contexts.
+I am currently a pre-doctoral researcher at the Indian School of Business, where I work on projects that build large, high-frequency datasets from job postings to study skill demand and occupational change, especially in emerging-economy contexts. Much of my work involves designing practical measurement systems that combine language models, embeddings, and structured data to extract and standardise skills and tasks from real-world text.
 
-Methodologically, my work combines **large language models, embedding-based matching, and graph-based representations** to extract, standardize, and validate skills and tasks from unstructured text. I have designed hybrid pipelines that integrate structured LLM extraction with similarity-based alignment across occupational and skill taxonomies such as **NCO, NIC, O*NET, and Lightcast**. A key emphasis of this work is interpretability and grounding—linking inferred skills back to definitions, importance scores, and textual evidence.
+More broadly, I am interested in how AI reshapes work through gradual task reconfiguration rather than abrupt job replacement, and how the way skills are represented in data systems and hiring platforms influences organisational decisions, worker mobility, and policy outcomes. I enjoy working at the boundary between research and implementation, where methodological choices matter for both empirical inference and real-world use.
 
-More broadly, I am interested in **human–AI interaction**, **task reconfiguration within firms**, and the role of **measurement systems** in shaping organizational behavior, worker mobility, and policy outcomes. My long-term goal is to pursue an academic career at a research-oriented institution, producing empirically grounded work that informs both organizations and policymakers navigating technological change.
+I am actively looking to pursue a PhD aligned with these interests. I am particularly keen to work with faculty who study technology, work, and organisations using empirical and data-driven approaches, and who care about building measurement systems that generalise beyond a single dataset or context.
