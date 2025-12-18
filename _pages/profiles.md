@@ -1,28 +1,56 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /references/
+title: References
+description: Professional and academic references
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
+
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: ""
+    content: ""
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>Deepa Mani</strong></p>
+      <p>Professor of Information Systems</p>
+      <p><a href="https://www.isb.edu/faculty-and-research/faculty-directory/deepa-mani">Profile</a></p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: ""
+    content: ""
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>Vishal Karungulam</strong></p>
+      <p>Assistant Professor / Faculty</p>
+      <p><a href="https://www.isb.edu/faculty-and-research/faculty-directory/vishal-karungulam">Profile</a></p>
+
+  - align: right
+    image: ""
+    content: ""
+    image_circular: false
+    more_info: >
+      <p><strong>Nishant Chadha</strong></p>
+      <p>LinkedIn Profile - Professional Connections</p>
+      <p><a href="https://www.linkedin.com/in/nishant-chadha-82846538/?originalSubdomain=in">Profile</a></p>
+
+  - align: left
+    image: ""
+    content: ""
+    image_circular: false
+    more_info: >
+      <p><strong>Praveen G</strong></p>
+      <p>Faculty / Researcher at Carnegie Mellon University</p>
+      <p><a href="https://www.andrew.cmu.edu/user/praveeng/">Profile</a></p>
+
+  - align: right
+    image: ""
+    content: ""
+    image_circular: false
+    more_info: >
+      <p><strong>Saini Khila Munipalle</strong></p>
+      <p>LinkedIn Profile - Professional Connections</p>
+      <p><a href="https://www.linkedin.com/in/sainikhilamunipalle/?originalSubdomain=in">Profile</a></p>
+
 ---
