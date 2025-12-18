@@ -40,14 +40,14 @@ nav_order: 5
 
 ---
 
-## Campus & Academic Life
+## Life@ISB
 
 <div class="row gx-3 gy-4">
   <div class="col-sm-6 col-md-3">
     <div class="card border-0 text-center">
       <img src="/assets/img/isb.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Indian School of Business</small>
+        <small class="text-muted">Hyderabad Campus</small>
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/isb_monsoon.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">ISB Campus during Monsoon</small>
+        <small class="text-muted">Monsoon@ISB</small>
       </div>
     </div>
   </div>
@@ -65,7 +65,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/isb_night.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">ISB at evening</small>
+        <small class="text-muted">Night@ISB</small>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/my_workplace.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Workplace at ISB. Feel free to drop by anytime! (AC6- Wing B)</small>
+        <small class="text-muted">Workplace@ISB. Feel free to drop by anytime! (AC6- Wing B)</small>
       </div>
     </div>
   </div>
@@ -81,14 +81,14 @@ nav_order: 5
 
 ---
 
-## Professional Experience & Saudi Arabia
+## Life@Saudi Arabia
 
 <div class="row gx-3 gy-4">
   <div class="col-sm-6 col-md-3">
     <div class="card border-0 text-center">
       <img src="/assets/img/stc.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Office - Saudi Telecom Company</small>
+        <small class="text-muted">Office@STC</small>
       </div>
     </div>
   </div>
@@ -128,9 +128,25 @@ nav_order: 5
 <div class="row gx-3 gy-4">
   <div class="col-sm-6 col-md-3">
     <div class="card border-0 text-center">
-      <img src="/assets/img/hampi.jpg" class="card-img-top img-fluid rounded">
+      <img src="/assets/img/hampi (2).jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
         <small class="text-muted">Hampi</small>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-3">
+    <div class="card border-0 text-center">
+      <img src="/assets/img/ellora.jpg" class="card-img-top img-fluid rounded">
+      <div class="card-body p-2">
+        <small class="text-muted">Ellora</small>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-3">
+    <div class="card border-0 text-center">
+      <img src="/assets/img/jodhpur.jpg" class="card-img-top img-fluid rounded">
+      <div class="card-body p-2">
+        <small class="text-muted">Jodhpur</small>
       </div>
     </div>
   </div>
