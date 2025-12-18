@@ -1,4 +1,3 @@
 Professor of Information Systems<br>
-Deputy Dean of Academic Programmes and Digital Learning<br>
-Indian School of Business<br>
+Deputy Dean of Academic Programmes & Digital Learning, ISB<br>
 <a href="https://www.isb.edu/faculty-and-research/faculty-directory/deepa-mani">Profile</a>
