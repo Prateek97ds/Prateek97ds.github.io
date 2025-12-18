@@ -10,13 +10,13 @@ nav_order: 9
 
 <div class="row">
   <div class="col-sm-4">
-    ![CODE Conference](assets/img/code.jpg)
+    ![](/assets/img/code.jpg)
   </div>
   <div class="col-sm-4">
-    ![CODE Conference](assets/img/code_good.jpg)
+    ![](/assets/img/code_good.jpg)
   </div>
   <div class="col-sm-4">
-    ![WISE Conference](assets/img/wise.jpg)
+    ![](/assets/img/wise.jpg)
   </div>
 </div>
 
@@ -26,13 +26,13 @@ nav_order: 9
 
 <div class="row">
   <div class="col-sm-4">
-    ![ISB Campus](assets/img/isb.jpg)
+    ![](/assets/img/isb.jpg)
   </div>
   <div class="col-sm-4">
-    ![ISB Monsoon](assets/img/isb_monsoon.jpg)
+    ![](/assets/img/isb_monsoon.jpg)
   </div>
   <div class="col-sm-4">
-    ![ISB Night](assets/img/isb_night.jpg)
+    ![](/assets/img/isb_night.jpg)
   </div>
 </div>
 
@@ -42,22 +42,22 @@ nav_order: 9
 
 <div class="row">
   <div class="col-sm-4">
-    ![STC Workplace](assets/img/stc.jpg)
+    ![](/assets/img/stc.jpg)
   </div>
   <div class="col-sm-4">
-    ![My Workplace](assets/img/my_workplace.jpg)
+    ![](/assets/img/my_workplace.jpg)
   </div>
   <div class="col-sm-4">
-    ![Riyadh Skyline](assets/img/riyadh_sky.jpg)
+    ![](/assets/img/riyadh_sky.jpg)
   </div>
 </div>
 
 <div class="row mt-3">
   <div class="col-sm-4">
-    ![Day and Night Riyadh](assets/img/day_night_riyad.jpg)
+    ![](/assets/img/day_night_riyad.jpg)
   </div>
   <div class="col-sm-4">
-    ![In Saudi Arabia](assets/img/me_in_sa.jpg)
+    ![](/assets/img/me_in_sa.jpg)
   </div>
 </div>
 
@@ -67,9 +67,9 @@ nav_order: 9
 
 <div class="row">
   <div class="col-sm-4">
-    ![Hampi](assets/img/hampi.jpg)
+    ![](/assets/img/hampi.jpg)
   </div>
   <div class="col-sm-4">
-    ![LEAP Event](assets/img/leap.jpg)
+    ![](/assets/img/leap.jpg)
   </div>
 </div>
