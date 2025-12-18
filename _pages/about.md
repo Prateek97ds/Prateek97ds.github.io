@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: *Researcher in Information Systems, AI, and Labor Markets*
 
