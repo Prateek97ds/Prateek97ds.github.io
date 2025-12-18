@@ -78,14 +78,8 @@ ninja.data = [
   //     },
   //   {%- endfor -%}
   // {%- endif -%}
-  // {%- for collection in site.collections -%}
-  //   {%- if collection.label != 'posts' -%}
-  //     {%- for item in collection.docs -%}
   {%- for collection in site.collections -%}
-    {%- if collection.label != 'posts' and
-          collection.label != 'projects' and
-          collection.label != 'books' and
-          collection.label != 'news' -%}
+    {%- if collection.label != 'posts' -%}
       {%- for item in collection.docs -%}
         {
           {%- if item.inline -%}
