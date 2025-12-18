@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /references/
+permalink: /people/
 title: References
 description: Professional and academic references
 nav: true
