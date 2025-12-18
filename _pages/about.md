@@ -8,8 +8,6 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: True
----
-
 
 selected_papers: true
 social: true
