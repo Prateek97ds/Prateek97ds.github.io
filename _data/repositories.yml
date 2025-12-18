@@ -2,6 +2,7 @@ github_users:
   - Prateek97ds
 
 github_repos:
-  - Prateek97ds/Caption-generating-model-on-Flickr8K-dataset.
-  - Prateek97ds/Skill_extractor
   - Prateek97ds/skill_value_research
+  - Prateek97ds/WebScrapping-using-Selenium
+  - Prateek97ds/Caption-generating-model-on-Flickr8K-dataset.
+  - Prateek97ds/Company-classification-based-on-description
