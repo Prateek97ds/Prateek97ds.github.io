@@ -2,12 +2,16 @@
 layout: about
 title: About
 permalink: /about/
-subtitle: <em>**Pre-Doctoral Researcher** in Information Systems, AI, and Labor Markets</em>
+nav: true
+nav_order: 1
+subtitle: "<em><strong>Pre-Doctoral Researcher</strong> in Information Systems, AI, and Labor Markets</em>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+---
+
 
 selected_papers: true
 social: true
