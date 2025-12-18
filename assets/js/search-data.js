@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-references",
           title: "References",
-          description: "Academic and professional references",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/references/";
