@@ -26,6 +26,15 @@ nav_order: 5
         <small class="text-muted">WISE Conference - 2023, Hyderabad</small>
       </div>
     </div>
+    
+  </div>
+    <div class="col-sm-6 col-md-3">
+    <div class="card border-0 text-center">
+      <img src="/assets/img/leap.jpg" class="card-img-top img-fluid rounded">
+      <div class="card-body p-2">
+        <small class="text-muted">LEAP Conference, Riyadh</small>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -56,7 +65,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/isb_night.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">ISB at Night</small>
+        <small class="text-muted">ISB at evening</small>
       </div>
     </div>
   </div>
@@ -79,7 +88,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/stc.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Saudi Telecom Company (stc)</small>
+        <small class="text-muted">Office - Saudi Telecom Company</small>
       </div>
     </div>
   </div>
@@ -106,7 +115,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/me_in_sa.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">In Saudi Arabia</small>
+        <small class="text-muted">Streets of Riyadh</small>
       </div>
     </div>
   </div>
@@ -122,15 +131,6 @@ nav_order: 5
       <img src="/assets/img/hampi.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
         <small class="text-muted">Hampi</small>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-sm-6 col-md-3">
-    <div class="card border-0 text-center">
-      <img src="/assets/img/leap.jpg" class="card-img-top img-fluid rounded">
-      <div class="card-body p-2">
-        <small class="text-muted">LEAP Conference, Riyadh</small>
       </div>
     </div>
   </div>
