@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research projects on AI, skills, labor markets, and data infrastructure.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research]
 horizontal: false
