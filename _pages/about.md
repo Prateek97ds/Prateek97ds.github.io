@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: *Researcher in Information Systems, AI, and Labor Markets*
+subtitle: <em>Pre-Doctoral Researcher in Information Systems, AI, and Labor Markets</em>
 
 profile:
   align: right
