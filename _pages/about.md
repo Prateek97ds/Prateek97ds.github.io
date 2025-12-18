@@ -1,15 +1,13 @@
 ---
 layout: about
 title: About
-permalink: /about/
-nav: true
-nav_order: 1
+permalink: /
 subtitle: "<em><strong>Pre-Doctoral Researcher</strong> in Information Systems, AI, and Labor Markets</em>"
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: True
 ---
 
 
