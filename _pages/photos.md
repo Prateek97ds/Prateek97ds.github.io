@@ -65,7 +65,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/isb_night.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Night@ISB</small>
+        <small class="text-muted">Dusk@ISB</small>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/my_workplace.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Workplace@ISB. Feel free to drop by anytime! (AC6- Wing B)</small>
+        <small class="text-muted">Workplace@ISB. Feel free to drop by anytime! (AC6-Wing B)</small>
       </div>
     </div>
   </div>
