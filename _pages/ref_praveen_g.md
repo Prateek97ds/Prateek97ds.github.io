@@ -1,3 +1,3 @@
-Praveen Garimella
-Adjunct Research Fellow, Carnegie Mellon University & Director of Digital Learning at ISB
-Profile: https://www.andrew.cmu.edu/user/praveeng/
+Adjunct Research Fellow, Carnegie Mellon University<br> 
+Director of Digital Learning,Indian School of Business<br> 
+<a href="https://www.andrew.cmu.edu/user/praveeng/">Profile</a>
