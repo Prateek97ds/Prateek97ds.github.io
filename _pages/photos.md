@@ -64,7 +64,7 @@ nav_order: 5
     <div class="card border-0 text-center">
       <img src="/assets/img/my_workplace.jpg" class="card-img-top img-fluid rounded">
       <div class="card-body p-2">
-        <small class="text-muted">Workplace in Riyadh</small>
+        <small class="text-muted">Workplace at ISB. Feel free to drop by anytime! (AC6- Wing B)</small>
       </div>
     </div>
   </div>
