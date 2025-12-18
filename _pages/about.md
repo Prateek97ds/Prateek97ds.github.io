@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: True
 
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
   enabled: false
