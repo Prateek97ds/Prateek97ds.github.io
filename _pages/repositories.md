@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: My Github Playground
-nav: true
+nav: false
 nav_order: 4
 ---
 
