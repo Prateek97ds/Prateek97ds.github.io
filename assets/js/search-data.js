@@ -26,14 +26,6 @@ const ninja = document.querySelector('ninja-keys');ninja.data = [
           window.location.href = "/cv/";
         },
       },{
-        id: "nav-repositories",
-        title: "Repositories",
-        description: "My Github Playground",
-        section: "Navigation",
-        handler: () => {
-          window.location.href = "/repositories/";
-        },
-      },{
         id: "nav-photos",
         title: "Photos",
         description: "Selected moments from conferences, academic settings, and professional work.",
