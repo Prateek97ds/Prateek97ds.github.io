@@ -18,14 +18,6 @@ const ninja = document.querySelector('ninja-keys');ninja.data = [
           window.location.href = "/research/";
         },
       },{
-        id: "nav-cv",
-        title: "CV",
-        description: "Curriculum Vitae",
-        section: "Navigation",
-        handler: () => {
-          window.location.href = "/cv/";
-        },
-      },{
         id: "nav-photos",
         title: "Photos",
         description: "Selected moments from conferences, academic settings, and professional work.",
