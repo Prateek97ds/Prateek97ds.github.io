@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 4
 cv_pdf: Prateek_Tiwari_CV.pdf
 description: Curriculum Vitae
