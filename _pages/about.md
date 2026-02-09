@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<em>Pre-Doctoral Researcher in Information Systems, AI, and Labor Markets</em>"
+subtitle: "<em>Understanding skill gaps and workforce transitions in an AI-driven economy</em>"
 
 profile:
   align: left
@@ -17,8 +17,6 @@ latest_posts:
   enabled: false
 ---
 
-I work on questions at the intersection of information systems, AI, and labour markets, with a focus on how new technologies change what work looks like inside firms. In particular, I study how tasks are reorganised, how skill requirements shift, and how these changes can be measured at scale.
+I am a Research Associate (Pre-Doctoral) at the Indian School of Business, working at the intersection of information systems, labour economics, and the future of work. My research is centered on building high-frequency labour-market measurement systems that combine large-scale job postings, labour force surveys, and large language models to understand how digital technologies—especially AI—are reshaping skills, tasks, and organisational structures. Methodologically, I design scalable pipelines that extract and standardise both explicit and implicitly embedded skills from unstructured text, align them with occupational and skill taxonomies, and represent labour demand using embeddings and graph-based systems to construct national-scale skill taxonomies.
 
-At ISB, I work on projects that build large, high-frequency datasets from job postings to study skill demand and occupational change, especially in emerging-economy contexts. Much of my work involves designing practical measurement systems that combine language models, embeddings, and structured data to extract and standardise skills and tasks from real-world text. More broadly, I am interested in how AI reshapes work through gradual task reconfiguration rather than abrupt job replacement, and how the way skills are represented in data systems and hiring platforms influences organisational decisions, worker mobility, and policy outcomes. I enjoy working at the boundary between research and implementation, where methodological choices matter for both empirical inference and real-world use.
-
-I am actively looking to pursue a PhD aligned with these interests. I am particularly keen to work with faculty who study technology, work, and organisations using empirical and data-driven approaches, and who care about building measurement systems that generalise beyond a single dataset or context.
+Substantively, my work studies how AI adoption changes the skill composition of jobs, how firms signal skill requirements in hiring, and how mismatches between underlying skill demand and skill articulation influence worker mobility, wages, and inequality. I also focus on translating these measurements into actionable insights on workforce capability building—examining skill transitions across firms and estimating the economic value of skills using high-frequency employer data. More broadly, my research interests span AI-driven organisational change, human–machine complementarity, and the design of data infrastructures that support workforce policy and firm decision-making in both emerging and developed economies.
